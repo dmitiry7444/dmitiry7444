@@ -41,20 +41,21 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :rocket: Portfolio :
-
-#### 1) Minesweeper - the game on React.js
+#### 1) Minesweeper - App for accounting of household finances with authorization (JS)
+Repo link: https://github.com/dmitiry7444/lumincoin    
+#### 2) Minesweeper - the game on React.js
 Deploy link: https://dmitiry7444.github.io/minesweeper-link/   
 Repo link: https://github.com/dmitiry7444/minesweeper   
-#### 2) Quiz - mini app on JS
+#### 3) Quiz - mini app on JS
 Deploy link: https://dmitiry7444.github.io/quiz-deploy/#/   
 Repo link: https://github.com/dmitiry7444/quiz   
-#### 3) BoomBurgers - landing page (HTML/less/JS) - adaptive
+#### 4) BoomBurgers - landing page (HTML/less/JS) - adaptive
 Deploy link: https://dmitiry7444.github.io/boomburger/      
 Repo link: https://github.com/dmitiry7444/boomburger   
-#### 4) Macaroons - landing page (HTML/CSS/JS) - adaptive
+#### 5) Macaroons - landing page (HTML/CSS/JS) - adaptive
 Deploy link: https://dmitiry7444.github.io/macaroons/  
 Repo link: https://github.com/dmitiry7444/macaroons   
-#### 5) AimGame - game on JavaScript
+#### 6) AimGame - game on JavaScript
 Deploy link: https://dmitiry7444.github.io/aim-game/     
 Repo link: https://github.com/dmitiry7444/aim-game     
 
