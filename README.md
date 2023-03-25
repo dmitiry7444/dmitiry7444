@@ -41,7 +41,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :rocket: Portfolio :
-#### 1) Minesweeper - App for accounting of household finances with authorization (JS)
+#### 1) Lumincoin - App for accounting of household finances with authorization (JS)
 Repo link: https://github.com/dmitiry7444/lumincoin    
 #### 2) Minesweeper - the game on React.js
 Deploy link: https://dmitiry7444.github.io/minesweeper-link/   
