@@ -29,14 +29,13 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :hammer_and_wrench: Main Languages and Tools :
 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
-
 
 ---
 
@@ -48,7 +47,8 @@ Deploy link: https://dmitiry7444.github.io/minesweeper-link/
 Repo link: https://github.com/dmitiry7444/minesweeper   
 #### 3) Quiz - mini app on JS
 Deploy link: https://dmitiry7444.github.io/quiz-deploy/#/   
-Repo link: https://github.com/dmitiry7444/quiz   
+Repo link (TS): https://github.com/dmitiry7444/quiz-ts  
+Repo link (JS): https://github.com/dmitiry7444/quiz   
 #### 4) BoomBurgers - landing page (HTML/less/JS) - adaptive
 Deploy link: https://dmitiry7444.github.io/boomburger/      
 Repo link: https://github.com/dmitiry7444/boomburger   
