@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"/>
 <div id="badges">
   <a href="https://t.me/dcdmitry1">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegramm Badge"/>
@@ -8,7 +7,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=dmitiry7444&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
