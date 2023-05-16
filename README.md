@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <div id="badges">
-  <a href="https://t.me/dcdmitry1">
+  <a href="https://t.me/dmitriy_chepaikin">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegramm Badge"/>
   </a>
   <a href="https://api.whatsapp.com/send/?phone=79829765415&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21+%EF%BF%BD&type=phone_number&app_absent=0">
