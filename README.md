@@ -39,22 +39,26 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :rocket: Portfolio :
-#### 1) Lumincoin - App for accounting of household finances with authorization (JS)
-Repo link: https://github.com/dmitiry7444/lumincoin    
-#### 2) Minesweeper - the game on React.js
-Deploy link: https://dmitiry7444.github.io/minesweeper-link/   
-Repo link: https://github.com/dmitiry7444/minesweeper   
-#### 3) Quiz - mini app on JS
+#### 1) Lumincoin - Online store for the sale of indoor flowers and plants (Angular, SCSS, Typescript)
+Repo link: https://github.com/dmitiry7444/home-decor
+#### 2) IT Storm - Company website with blog functionality (Angular, SCSS, Typescript)
+Repo link: https://github.com/dmitiry7444/blog
+#### 3) Lumincoin - App for accounting of household finances with authorization (JS)
+Repo link: https://github.com/dmitiry7444/lumincoin  
+#### 4) Quiz - mini app on JS
 Deploy link: https://dmitiry7444.github.io/quiz-deploy/#/   
 Repo link (TS): https://github.com/dmitiry7444/quiz-ts  
 Repo link (JS): https://github.com/dmitiry7444/quiz   
-#### 4) BoomBurgers - landing page (HTML/less/JS) - adaptive
+#### 5) Minesweeper - the game on React.js
+Deploy link: https://dmitiry7444.github.io/minesweeper-link/   
+Repo link: https://github.com/dmitiry7444/minesweeper   
+#### 6) BoomBurgers - landing page (HTML/less/JS) - adaptive
 Deploy link: https://dmitiry7444.github.io/boomburger/      
 Repo link: https://github.com/dmitiry7444/boomburger   
-#### 5) Macaroons - landing page (HTML/CSS/JS) - adaptive
+#### 7) Macaroons - landing page (HTML/CSS/JS) - adaptive
 Deploy link: https://dmitiry7444.github.io/macaroons/  
 Repo link: https://github.com/dmitiry7444/macaroons   
-#### 6) AimGame - game on JavaScript
+#### 8) AimGame - game on JavaScript
 Deploy link: https://dmitiry7444.github.io/aim-game/     
 Repo link: https://github.com/dmitiry7444/aim-game     
 
