@@ -39,7 +39,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :rocket: Portfolio :
-#### 1) Lumincoin - Online store for the sale of indoor flowers and plants (Angular, SCSS, Typescript)
+#### 1) Home Decor - Online store for the sale of indoor flowers and plants (Angular, SCSS, Typescript)
 Repo link: https://github.com/dmitiry7444/home-decor
 #### 2) IT Storm - Company website with blog functionality (Angular, SCSS, Typescript)
 Repo link: https://github.com/dmitiry7444/blog
